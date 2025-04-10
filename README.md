@@ -1,4 +1,7 @@
-Oiii eu sou a Elizabeth Leite de Paula Ferreira, estudante de linguagem de programação e tecnologia! 👋
+Oiii eu sou a Elizabeth Leite de Paula Ferreira, Graduada em análise e desenvolvimento de sistemas, Gestão de riscos, continuidade de 
+negócio, ISO27001, ISO 27002, ISO 27014, ISO 27017, COBIT 5, governança de dados 
+LGPD/GDPR, metodologias de análise de vulnerabilidade e padrões periciais em investigação. 
+Com experiência em relacionamento, coordenação e liderança de equipes, além de ser comprometida e focada no cliente, estou pronta para enfrentar novos desafios.! 👋
 - 🔭 Hoje eu trabalho com gestão de projetos com metodologias ágeis
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
 - 😄 Pronomes: Ela/ dela
